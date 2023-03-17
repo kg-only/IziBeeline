@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IziBeeline</string>
+    <string name="network_error">Возникла ошибка при получении данных</string>
+    <string name="agreement"><![CDATA[Принимаю <a href=\'#\'>Пользовательское соглашение</a> и даю согласие на <a href=\'#\'>сбор и обработку персональных данных</a>]]></string>
+    <string name="log_in">ВОЙТИ В АККАУНТ</string>
+    <string name="first_time_here">Я ТУТ ВПЕРВЫЕ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

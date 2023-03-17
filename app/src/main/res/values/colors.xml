@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="buttonBorder">#1C88FF</color>
+    <color name="selectedViewPager">#4094DF</color>
+    <color name="notSelectedViewPager">#959595</color>
+    <color name="greyCardBackground">#E0E6EC</color>
+
+    <color name="yellow">#FFD400</color>
+    <color name="greenCardStroke">#3FDF3F</color>
+    <color name="xColor">#A0B0C2</color>
+    <color name="iconBlue">#1786FE</color>
+    <color name="bottomButtonBackground">#979797</color>
+    <color name="viewPagerColor">#837CFF</color>
+    <!--  Featured  -->
+    <color name="colorPrimary">#FFCD00</color>
+    <color name="yellow50opacity">#80FFE680</color>
+    <color name="colorPrimaryDark">#F5F5F5</color>
+    <color name="colorPrimaryDark2">#121212</color>
+    <color name="colorAccent">#FFCD00</color>
+    <color name="colorControl">#0073FF</color>
+    <color name="cardGreyBackground">#F0F2F5</color>
+    <color name="lineBackground">#D3D5D7</color>
+
+    <!-- Background   -->
+    <color name="primaryBackgroundColor">#F5F5F5</color>
+    <color name="invertedBackgroundColor">#232323</color>
+    <color name="disabledBackgroundColor">#F0F0F0</color>
+    <color name="dialogBackgroundColor">#FFFFFF</color>
+    <color name="bottomSheetBackgroundColor">#FFFFFF</color>
+    <color name="errorMessageBackgroundColor">#ED4646</color>
+    <color name="errorSystemColor">#FB4E4E</color>
+    <color name="warningMessageBackgroundColor">#ED9C46</color>
+    <color name="fiscalMode">#2EDF01</color>
+    <color name="fillColor">#232325</color>
+
+    <!--  Text  -->
+    <color name="primaryTextColor">#191919</color>
+    <color name="secondaryTextColor">#919191</color>
+    <color name="invertedTextColor">#FFF</color>
+    <color name="secondaryInvertedTextColor">#CACACA</color>
+
+    <!-- Block, Container -->
+    <color name="primaryContainerBgColor">#FFF</color>
+
+    <!--  Util  -->
+    <color name="rippleColor">#42000000</color>
+    <color name="borderColor">#CACACA</color>
+    <color name="outlineColor">#F5F5F5</color>
+    <color name="separatorColor">#EEEEEE</color>
+    <color name="modalBackgroundColor">#80313131</color>
+    <color name="linkColor">#0094FF</color>
+    <color name="lightGray">#E8E8E8</color>
+    <color name="midGray">#909090</color>
+    <color name="secondaryMidGray">#666666</color>
+    <color name="red">#FB4E4E</color>
+    <color name="green">#50D890</color>
+    <color name="darkGray">#39393B</color>
+    <color name="secondaryDark">#232323</color>
+    <color name="colorGray2">#8F96A6</color>
+    <color name="light_gray_2">#E8E8E8</color>
+    <color name="pink">#FFF5CB</color>
+    <color name="orange">#FF9900</color>
+
+    <color name="transparent">#0fff</color>
+</resources>

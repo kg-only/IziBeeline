@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PhotoPreviewView">
+        <attr name="android:text"/>
+    </declare-styleable>
+
+    <attr name="toggleButtonItemBackground" format="color" />
+    <attr name="toggleButtonContainerBackground" format="color" />
+    <attr name="textPrimaryColor" format="color" />
+    <attr name="tabDivider" format="color" />
+
+    <attr name="btnOutlinedEnabledText" format="color" />
+    <attr name="btnOutlinedDisabledText" format="color" />
+
+    <attr name="btnContainedEnabledText" format="color" />
+    <attr name="btnContainedDisabledText" format="color" />
+    <attr name="btnContainedEnabledBackground" format="color" />
+    <attr name="btnContainedDisabledBackground" format="color" />
+
+</resources>
